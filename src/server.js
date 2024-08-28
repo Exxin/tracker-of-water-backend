@@ -19,7 +19,6 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
   'https://tracker-of-water.vercel.app',
-  'https://tracker-of-water-backend.onrender.com'
 ];
 
 const corsOptions = {
